@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Pablo, tenho 20 anos e sou natural de Minas Gerais. Atualmente, estou cursando Sistemas de Informação na Associação Educacional Dom Bosco, em Resende RJ . Sou apaixonado por tecnologia e estou sempre buscando aprimorar meus conhecimentos nesta área.
+Me chamo Pablo Rezende Vita, tenho 20 anos e sou natural de Minas Gerais. Atualmente, estou cursando Sistemas de Informação na Associação Educacional Dom Bosco, em Resende RJ . Sou apaixonado por tecnologia e estou sempre buscando aprimorar meus conhecimentos nesta área.
 
 
 ---
